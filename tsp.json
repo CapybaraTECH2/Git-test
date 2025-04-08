@@ -1,0 +1,84 @@
+{
+  "cidades": [
+    {
+      "nome": "Colinas do Tocantins",
+      "latitude": -7.4804,
+      "longitude": -48.4039
+    },
+    {
+      "nome": "Miracema do Tocantins",
+      "latitude": -9.4684,
+      "longitude": -48.3464
+    },
+    {
+      "nome": "Araguaína",
+      "latitude": -7.1911,
+      "longitude": -48.2045
+    },
+    {
+      "nome": "Palmeirópolis",
+      "latitude": -8.6870,
+      "longitude": -48.4911
+    },
+    {
+      "nome": "Lagoa do Tocantins",
+      "latitude": -9.3964,
+      "longitude": -48.4544
+    },
+    {
+      "nome": "Santa Fé do Araguaia",
+      "latitude": -6.8045,
+      "longitude": -48.0619
+    },
+    {
+      "nome": "Rio dos Bois",
+      "latitude": -8.6280,
+      "longitude": -48.1408
+    },
+    {
+      "nome": "Axixá do Tocantins",
+      "latitude": -8.4749,
+      "longitude": -48.4201
+    },
+    {
+      "nome": "Brejinho de Nazaré",
+      "latitude": -9.2315,
+      "longitude": -48.3236
+    },
+    {
+      "nome": "Caseara",
+      "latitude": -9.4972,
+      "longitude": -48.6028
+    },
+    {
+      "nome": "Augustinópolis",
+      "latitude": -5.8613,
+      "longitude": -48.1307
+    },
+    {
+      "nome": "Tocantinópolis",
+      "latitude": -5.5324,
+      "longitude": -48.3384
+    },
+    {
+      "nome": "Porto Nacional",
+      "latitude": -10.7125,
+      "longitude": -48.3942
+    },
+    {
+      "nome": "Goiatins",
+      "latitude": -8.7063,
+      "longitude": -48.4425
+    },
+    {
+      "nome": "Barra do Ouro",
+      "latitude": -9.6336,
+      "longitude": -48.5489
+    },
+    {
+      "nome": "São João do Tocantins",
+      "latitude": -7.5875,
+      "longitude": -48.2089
+    }
+  ]
+}
