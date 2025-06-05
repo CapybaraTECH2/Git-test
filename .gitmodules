@@ -1,0 +1,3 @@
+[submodule "Git-test"]
+	path = Git-test
+	url = https://github.com/CapybaraTECH2/Git-test.git
